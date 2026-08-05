@@ -172,7 +172,7 @@ RETRIEVER_K     = 3         # Number of chunks to retrieve
 
 ## Credits 👥
 
-Created as a mini project for college students to interact with DMPC ordinance documents.
+Created as a mini project for college students to interact with  documents.
 
 ## License 📄
 
