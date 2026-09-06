@@ -1,6 +1,6 @@
 # DocuMind AI 📚
 
-A Streamlit-based chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions from DMPC ordinance PDF documents.
+A Streamlit-based chatbot that uses Retrieval-Augmented Generation (RAG) to answer questions from multiple PDF documents.
 
 ## Features ✨
 
