@@ -4,10 +4,10 @@ A Streamlit-based chatbot that uses Retrieval-Augmented Generation (RAG) to answ
 
 ## Features ✨
 
-- **Multiple PDF Upload**: Upload one or more ordinance PDFs simultaneously
+- **Multiple PDF Upload**: Upload one or more PDFs simultaneously
 - **Conversational AI**: Natural language Q&A with chat history
 - **RAG Pipeline**: Combines document retrieval with LLM generation
-- **Clean UI**: Professional interface designed for college students
+- **Clean UI**: Professional interface designed for students
 - **Session Management**: Clear chat history or reset entire session
 
 ## Tech Stack 🛠️
@@ -172,7 +172,7 @@ RETRIEVER_K     = 3         # Number of chunks to retrieve
 
 ## Credits 👥
 
-Created as a mini project for college students to interact with  documents.
+Created as a mini project for all students to interact with  documents.
 
 ## License 📄
 
@@ -180,7 +180,7 @@ MIT License - Feel free to use and modify for your projects!
 
 ## Support 💬
 
-For issues or questions, please create an issue in the repository or contact your project supervisor.
+For issues or questions, please create an issue in the repository.
 
 ---
 
